@@ -1,2 +1,2 @@
 # sysupdate
-Debian Based Update Script
+Package Management for Debian/Ubuntu Based Update and Upgrade Script
